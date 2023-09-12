@@ -16,6 +16,8 @@ Welcome to my data science and data analysis portfolio! This repository is a col
 
 ### 2. Indian Restaurants
 
+![Indian Restaurants](https://res.klook.com/image/upload/q_85/c_fill,w_750/v1635910287/blog/uznfefyhypnfr4alylre.jpg)
+
 **Description**: Do you want to open a restaurant in India? Let's briefly analyse some data related to it, including cuisine type, locations, rates, and other exciting features. It reveals what are the most rated types of restaurants (bar or italian food?). 
 
 **Key Insights**:
