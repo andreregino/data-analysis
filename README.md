@@ -2,7 +2,7 @@
 
 Welcome to my data science and data analysis portfolio! This repository is a collection of notebooks that explore various datasets, providing insights and solutions through data-driven analysis. Below, you'll find a brief description of each project:
 
-#### 1. Rollercoaster Thrills
+### 1. Rollercoaster Thrills
 
 ![Rollercoaster Image](https://www.mtolympuspark.com/wp-content/uploads/2016/08/Mt.OlympusThemeParkHades360.jpg)
 
@@ -12,3 +12,13 @@ Welcome to my data science and data analysis portfolio! This repository is a col
 - Mean speed of rollercoasters.
 - Relationship between speed and height.
 - Heatmap of rollercoaster numeric correlation values.
+
+
+### 2. Indian Restaurants
+
+**Description**: Do you want to open a restaurant in India? Let's briefly analyse some data related to it, including cuisine type, locations, rates, and other exciting features. It reveals what are the most rated types of restaurants (bar or italian food?). 
+
+**Key Insights**:
+- Locations with the highest number of restaurants in India.
+- Does India have more restaurants with the possibility of online ordering or not?
+- Restaurants with book table service have higher rate?
